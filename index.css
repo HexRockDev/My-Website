@@ -1,0 +1,41 @@
+body {
+    background-color: C8B6A6;
+}
+
+#titleblock {
+    background-color: 8D7B68;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+#specialbutton {
+    padding: 20px;
+    border-color: beige;
+    border-radius: 3px;
+    border-width: 6px;
+    background-color: #ebd0b0;
+    border-style: solid;
+    text-align: center;  
+}
+
+#specialbutton:hover {
+    background-color: #ffe6c8;
+}
+
+#specialbutton:active {
+    background-color: #e4c943;
+}
+
+.infoblock {
+    font-size:20px;
+    text-align: center;
+    padding: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
